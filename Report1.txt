@@ -1,0 +1,6 @@
+SQLQuery5.sql - DESKTOP-7CUFHLI\SQLEXPRESS.salary (DESKTOP-7CUFHLI\ensen (52))
+
+- Querying transaction count (Success)
+
+
+
